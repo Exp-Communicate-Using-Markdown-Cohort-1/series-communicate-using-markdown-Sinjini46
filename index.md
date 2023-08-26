@@ -1,6 +1,6 @@
 # adding content to index file
 
-<img src="https://octodex.github.com/images/yaktocat.png" alt="yaktocat">
+![yaktocat](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Sinjini46/assets/87771678/291409ce-61a7-48c6-aad6-bf06eec25ea1)
 
 ```
 $ git init
